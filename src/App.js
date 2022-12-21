@@ -1,10 +1,16 @@
-import React from "react";
+import './App.css';
+import Container from './components/Container'
+import "@fontsource/roboto"
 
 function App() {
   return (
     <div>
-    </div>
 
+      <div className="flex flex-col min-h-screen">
+        <Container />
+      </div>
+
+    </div>
   );
 }
 
