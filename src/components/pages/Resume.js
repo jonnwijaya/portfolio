@@ -1,6 +1,6 @@
 import React from 'react'
 
-const resume = ".../public/resume"
+const resume = "https://github.com/jonnwijaya/portfolio/raw/main/public/Resume.pdf"
 
 function Resume() {
     return (
